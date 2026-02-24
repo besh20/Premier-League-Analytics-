@@ -33,12 +33,16 @@ I didn't want a "data dump." I focused on Visual Hierarchy. So The Visuals were 
 ### Key Insights
 
 Efficiency Matters: By comparing Expected Goals (xG) against Actual Goals, We could see which teams were overperforming their "luck" and which were struggling to finish their chances.
+
 Home vs. Away: The dashboard highlights a significant drop-off in defensive stability for certain mid-table teams when playing away from home, which isn't always obvious from the final points total.
+
 Teams Journey: by comparing multiple teams, We could see at what matchweek they got passed by another teams and also beaten for the title 
 
 ### How to Use This
 
 Check out the /SQL folder to see how I transformed the raw data.
+
 Download the .pbix file to play with the filters yourself.
+
 Check the /Screenshots folder for a quick preview of the final UI
 
