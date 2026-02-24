@@ -40,7 +40,7 @@ Teams Journey: by comparing multiple teams, We could see at what matchweek they 
 
 ### How to Use This
 
-Check out the /SQL folder to see how I transformed the raw data.
+Check out the SQL file to see how I transformed the raw data.
 
 Download the .pbix file to play with the filters yourself.
 
